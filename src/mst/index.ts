@@ -19,6 +19,6 @@ const RootModel = types.model("root", {
 
 export { RootModel }
 
-export type root = Instance<typeof RootModel>
+export type Root = Instance<typeof RootModel>
 export type employer = Instance<typeof EmployerModel>
 export type employee = Instance<typeof EmployeeModel>

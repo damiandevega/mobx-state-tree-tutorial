@@ -5,7 +5,7 @@ export const setupRootStore = () => {
   const rootTree = RootModel.create({
     employer: {
       id: "1",
-      name: 'Damian',
+      name: 'Damian de Vega',
       location: 'New York, NY',
       employees: []
     }
