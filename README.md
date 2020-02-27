@@ -1,4 +1,4 @@
-Mobx State Tree Tutorial
+## Mobx State Tree Tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
